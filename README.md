@@ -13,6 +13,8 @@ The AI Virtual Navigator project studies the development of a gesture-based huma
 
  - [Directed Research, Summer 2024, North South University](http://ece.northsouth.edu/directed-research-498r/)
 
+#### Team Members: [Iftekher Mahbub Rafi](https://github.com/Mahbub-Rafi), [Ismail Hossain](https://github.com/EMONXIII), Rafit Biswas, Syed Saurav Anwar Niloy.
+
 
 ## Motivation
 
