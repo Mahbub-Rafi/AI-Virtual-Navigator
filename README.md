@@ -96,7 +96,7 @@ The first experiment involved testing the system's ability to detect and interpr
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Mahbub-Rafi/AI-Virtual-Navigator/blob/main/LICENSE) file for details.
+This project is licensed under the CC0-1.0 License - see the [LICENSE](https://github.com/Mahbub-Rafi/AI-Virtual-Navigator/blob/main/LICENSE) file for details.
 
 
 ## References
